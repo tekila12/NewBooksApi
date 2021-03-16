@@ -1,7 +1,7 @@
 
-    { 
-      "Arts and Entertainment":[{
-             "id":"1",
+    [
+        {   "category":"Arts and Entertainment" ,
+            "id":"1",
             "image":"https://m.media-amazon.com/images/I/514D3+IEDxL._SL500_.jpg", 
             "bookName": "Unf--k Your Brain", "by":"Faith G. Harper PhD LPC-S ACS ACN", 
             "Narrated by": "Faith G. Harper PhD LPC-S ACS ACN", 
@@ -66,17 +66,19 @@
             "Language": "English", 
             "rating": "3,677 ratings", 
             "Regular price": "$5.95", 
-            "info":"Are the kids asleep? Yes? Good. This one isn’t for them. Now, if your weary, grown-up mind has been searching for a snarkier alternative to your favorite childhood tales, this Audible Original, hosted by Nick Offerman (Parks & Recreation), will scratch that itch - and then some. Enjoy a hilarious collection of short stories, featuring performances from the likes of Tommy Chong (Cheech & Chong), Tony Hale (Veep), Patton Oswalt (The Goldbergs), and David Spade (Saturday Night Live). " }], 
+            "info":"Are the kids asleep? Yes? Good. This one isn’t for them. Now, if your weary, grown-up mind has been searching for a snarkier alternative to your favorite childhood tales, this Audible Original, hosted by Nick Offerman (Parks & Recreation), will scratch that itch - and then some. Enjoy a hilarious collection of short stories, featuring performances from the likes of Tommy Chong (Cheech & Chong), Tony Hale (Veep), Patton Oswalt (The Goldbergs), and David Spade (Saturday Night Live). " },
             
             
-            "Biographies and Memoirs":[{ 
+            { 
+            "category":"Biographies Memoirs" ,
             "id":"6",
             "image":"https://m.media-amazon.com/images/I/51WxQyFZWnL._SL500_.jpg", 
             "bookName": " The Republic of Pirates", 
             "by": "Colin Woodard", 
             "Narreted by": "Lewis Grenville", 
             "Length": "13 hrs and 26 mins", 
-            "Release date": "08-14-15", "Language": "English",
+            "Release date": "08-14-15",
+             "Language": "English",
              "rating": "4,182 ratings", 
              "Regular price": "$29.95", 
              "info":"The untold story of a heroic band of Caribbean pirates whose defiance of imperial rule inspired revolt in colonial outposts across the world. In the early 18th century, the Pirate Republic was home to some of the great pirate captains, including Blackbeard, Black Sam Bellamy, and Charles Vane. Along with their fellow pirates - former sailors, indentured servants, and runaway slaves - this Flying Gang established a crude but distinctive democracy in the Bahamas, carving out their own zone of freedom in which servants were free, Blacks could be equal citizens, and leaders were chosen or deposed by a vote. They cut off trade routes, sacked slave ships, and severed Europe from its New World empires. And for a brief, glorious period, the Republic was a success.        ©2015 Blackstone Audio, Inc. (P)2015 Blackstone Audiobooks" }, 
@@ -131,9 +133,10 @@
             "Language": "English", 
             "rating": "4,881 ratings", 
             "Regular price": "$23.07", 
-            "info":"A blueprint. A bible. What Sun Tzu’s Art of War was to ancient China, Pimp is to the streets. As real as you can get without jumping in, this is the story of Iceberg Slim’s life as he saw, felt, tasted, and smelled it. It is a trip through hell by the one man who lived to tell the tale—the dangers of jail, addiction, and death that are still all too familiar for today’s Black community. By telling the story of one man’s struggles and triumphs in an underground world, Pimp shows us the game doesn’t change; it just has a different swagger.Only Slim could tell this story and make the reader feel it. If you thought Hustle & Flow was the true pimp story, this book is where it all began. This is the heyday of the pimp, the hard-won pride and glory, small though it may be; the beginnings of pimp before it was dragged in front of the camera, before pimp juice and pimp style. Though it is a tale of his times, it will remain current and true for as long as there is a race bias, as long as there is a street life, as long as there is exploitation. ©1969, 1987 Iceberg Slim (P)2011 Blackstone Publishing, and Urban Audiobooks" }],
+            "info":"A blueprint. A bible. What Sun Tzu’s Art of War was to ancient China, Pimp is to the streets. As real as you can get without jumping in, this is the story of Iceberg Slim’s life as he saw, felt, tasted, and smelled it. It is a trip through hell by the one man who lived to tell the tale—the dangers of jail, addiction, and death that are still all too familiar for today’s Black community. By telling the story of one man’s struggles and triumphs in an underground world, Pimp shows us the game doesn’t change; it just has a different swagger.Only Slim could tell this story and make the reader feel it. If you thought Hustle & Flow was the true pimp story, this book is where it all began. This is the heyday of the pimp, the hard-won pride and glory, small though it may be; the beginnings of pimp before it was dragged in front of the camera, before pimp juice and pimp style. Though it is a tale of his times, it will remain current and true for as long as there is a race bias, as long as there is a street life, as long as there is exploitation. ©1969, 1987 Iceberg Slim (P)2011 Blackstone Publishing, and Urban Audiobooks" },
 
-            "Business and Careers":[{
+            {
+            "category":"Business and Careers",
             "id":"11",
             "image":"https://m.media-amazon.com/images/I/51F4nsOMnmL._SL500_.jpg", 
             "bookName": "The Compound Effect", 
@@ -197,10 +200,11 @@
             "rating": "1,204 ratings", 
             "Regular price": "$18.16", 
             "info":"In The Entrepreneur Roller Coaster you will learn the best strategies Darren has ever collected from the most successful people on the planet, covering the four essential skills necessary for entrepreneurial success: sales, recruiting, leadership, and productivity.This essential guidebook will prepare you for the wild ride of entrepreneurship. It will warn you (of forthcoming fears, doubts, and the self-defeating conditioning of your upbringing and past), inoculate you (from the naysayers, dream-stealers, and pains of rejection and failure), and guide you (as you build those underdeveloped skills of independence, self-motivation, and self-accountability) safely past the landmines that blow up and cause the failure of 66 percent of all new businesses.Discover why NOW is the best time to #JOINTHERIDE. ©2015 Darren Hardy (P)2019 Blackstone Audio"   
-           }
-           ],
+           },
+           
              
-           "Children's Audiobooks":[{
+             {
+             "category":"Children's Audiobooks",
             "id":"16",
             "image":"https://m.media-amazon.com/images/I/61LMdRL1uoL._SL500_.jpg", 
             "bookName": "Anne of Green Gables", 
@@ -269,10 +273,11 @@
             "rating": "577 ratings", 
             "Regular price": "$6.95", 
             "info":"Steve lives on a wheat farm. He has everything he needs to live in the Minecraft world: a bed, a house, and food. Steve likes to spend his mornings in the NCP village and trade his wheat for emeralds, armor, books, swords, and food. One morning, he finds that Zombies have attacked the villagers. The Zombies have also turned the village blacksmith into a Zombie, leaving Steve without a place to get swords. To protect himself and the few villagers that remain, Steve goes on a quest to mine for 40 diamonds, which are the most powerful mineral in the Overworld. He wants to craft these diamonds into a diamond sword to shield him and the villagers from the Zombies. Far from his home, with night about to set in, Steve fears for his life. Nighttime is when users are most vulnerable in Minecraft. As he looks for shelter in a temple, he meets a trio of treasure hunters, Max, Lucy, and Henry, who are trying to unearth the treasure under the temple. Steve tells them of his master plan to mine for the most powerful mineral in the Overworld - the diamond. The treasure hunters are eager to join him. Facing treacherous mining conditions, a thunderstorm, and attacks from hostile mobs, these four friends question if it's better to be a single player than a multiplayer, as they try to watch out for each other and chase Steve's dream at the same time. Will Steve find the diamonds? Will his friends help or hinder the search? Should he trust his new treasure hunter friends? And will Steve get back in time to save the villagers?©2014 Hollan Publishing, Inc. (P)2014 Audible Inc."
-           }
-           ],
+           },
+           
 
-           "Computers and Technology":[{
+            {
+             "category":"Computers and Technology",
             "id":"21",
             "image":"https://m.media-amazon.com/images/I/4117AxWJIlL._SL500_.jpg", 
             "bookName": "Liminal Thinking", 
@@ -338,9 +343,10 @@
             "rating": "1,693 ratings", 
             "Regular price": "$24.47", 
             "info":"As cyber attacks dominate front-page news, as hackers join the list of global threats, and as top generals warn of a coming cyber war, few books are more timely and enlightening than Dark Territory: The Secret History of Cyber War by Slate columnist and Pulitzer Prize-winning journalist Fred Kaplan.Kaplan probes the inner corridors of the National Security Agency, the beyond-top-secret cyber units in the Pentagon, the (information warfare) squads of the military services, and the national security debates in the White House to tell this never-before-told story of the officers, policymakers, scientists, and spies who devised this new form of warfare and who have been planning - and, more often than people know, fighting - these wars for decades. From the 1991 Gulf War to conflicts in Haiti, Serbia, Syria, the former Soviet republics, Iraq, and Iran, where cyber warfare played a significant role, Dark Territory chronicles, in fascinating detail, an unknown past that shines an unsettling light on our future.©2016 Fred Kaplan (P)2016 Blackstone Audio, Inc." 
-           }  
-           ],
-           "Education and Learning":[{
+           },
+           
+           {
+            "category":"Education and Learning",
             "id":"26",
             "image":"https://m.media-amazon.com/images/I/51tKBA2WnyL._SL500_.jpg", 
             "bookName": "Beyond Good and Evil", 
@@ -405,9 +411,10 @@
             "rating": "1,386 ratings", 
             "Regular price": "$20.97", 
             "info":"Stein on Writing provides immediately useful advice for writers of fiction and nonfiction, whether newcomers or accomplished professionals. As Sol Stein, renowned editor, author, and instructor, explains, This is not a book of theory. It is a book of usable solutions, how to fix writing that is flawed, how to improve writing that is good, how to create interesting writing in the first place.With examples from his best sellers as well as aspiring students' writing, Stein offers detailed sections on characterization, dialogue, pacing, flashbacks, liposuctioning flab, the triage method of revision, using the techniques of fiction to enliven nonfiction, and more.©1995 Sol Stein (P)2003 Blackstone Audiobooks" 
-           }
-          ],
-          "erotic":[{
+           },
+          
+            {
+            "category":"Erotic",
             "id":"31",
             "image":"https://m.media-amazon.com/images/I/514ljETxSKL._SL500_.jpg", 
             "bookName":"Sexy", 
@@ -474,9 +481,10 @@
             "rating": "366 ratings", 
             "Regular price": "$27.99", 
             "info":"Madison Montgomery comes from money and power, but when someone close to her commits the ultimate crime, Madison must live with her tainted name for the rest of her life.When she begins Riverside Preparatory Academy, the private school her father has swept her into in The Hamptons, she hopes for a fresh start. What she wasn't hoping for was the pack of bad boys who run the school - 10, to be exact. When Madison gains the attention of their leader, Bishop Vincent Hayes, a whole new world that she didn't think existed is exposed to her. A whole world that starts and ends with The Elite Kings' Club, and these boys are about to flip her world upside down.Secrets are overflowing and family lies are about to be exposed. Is there more to Madison Montgomery than even she knows?©2017 Amo Jones (P)2018 Oh My Audiobooks"   
-          }  
-        ],
-        "Health & Wellness":[{
+          }, 
+           
+          {
+            "category":"Health and Wellness",
             "id":"36",
             "image":"https://m.media-amazon.com/images/I/518cFzNKTsL._SL500_.jpg", 
             "bookName":"How to Train Your Mind", 
@@ -542,10 +550,11 @@
             "rating": "3,804 ratings", 
             "Regular price": "$19.95", 
             "info":"Too many of us miss out on opportunities in life because we lack self-confidence. Whether it's public speaking, taking on a leadership role, or asking someone for a date, there are situations in which we just don't feel equipped to handle the challenges we face. Russ Harris offers a surprising solution to low self-confidence, shyness, and insecurity: Rather than trying to get over our fears, he says, the secret is to form a new and wiser relationship with them. Paradoxically, it's only when we stop struggling against our fearfulness that we begin to find lasting freedom from it. Drawing on the techniques of Acceptance and Commitment Therapy (ACT), a cutting-edge form of cognitive-behavioral therapy, The Confidence Gap explains how to: Free yourself from common misconceptions about what confidence is and how to build it; transform your relationship with fear and anxiety; clarify your core values and use them as your inspiration and motivation; use mindfulness to effectively handle negative thoughts and feelings.©2011 Russ Harris (P)2014 Audible Inc."
-         }
-        ],
+         },
+        
 
-          "history":[{
+          {
+            "category":"History",
             "id":"41",
             "image":"https://m.media-amazon.com/images/I/51EE3GAdmfL._SL500_.jpg", 
             "bookName":"The Confidence Gap", 
@@ -609,10 +618,11 @@
             "rating": "5,830 ratings", 
             "Regular price": "$34.96", 
             "info":"It begins with a birth in an African village in 1750, and ends two centuries later at a funeral in Arkansas. And in that time span, an unforgettable cast of men, women, and children come to life, many of them based on the people from Alex Haley's own family tree. When Alex was a boy growing up in Tennessee, his grandmother used to tell him stories about their family, stories that went way back to a man she called the African who was taken aboard a slave ship bound for Colonial America.As an adult, Alex spent 12 years searching for documentation that might authenticate what his grandmother had told him. In an astonishing feat of genealogical detective work, he discovered the name of the African - Kunta Kinte - as well as the exact location of the village in West Africa from where he was abducted in 1767.Roots is based on the facts of his ancestry, and the six generations of people - slaves and freedmen, farmers and lawyers, an architect, teacher, and one acclaimed author - descended from Kunta Kinte.©1974 Alex Haley. Renewed 2004 by Myran Haley, Cynthia Haley, Lydia Haley, and William Haley; (P)2007 BBC Audiobooks (P)2007 BBC Audiobooks America"
-          }
-        ],
+          },
+        
 
-         "Money and Finance":[{
+          {
+            "category":"Money and Finance",
             "id":"46",
             "image":"https://m.media-amazon.com/images/I/51tbH4+pnrL._SL500_.jpg", 
             "bookName":"100 Ways to Create Wealth", 
@@ -676,9 +686,10 @@
             "rating": "1,292 ratings", 
             "Regular price": "$19.99", 
             "info":"On the heels of his 2010 New York Times bestseller Conspiracy of the Rich, Robert Kiyosaki takes a hard-hitting look at the factors that impact people from all walks of life as they struggle to cope with change and challenges that impact their financial world. In Unfair Advantage: The Power of Financial Education Robert underscores his messages and challenges readers to change their context and act in a new way. Listeners are advised to stop blindly accepting that they are disadvantaged people with limited options. They are encouraged to act beyond their concept of limited options and challenge the preconception that they will struggle financially all of their lives. Robert’s fresh approach to his time-tested messages includes clear, actionable steps that any individual or family can take, starting with education. Education becomes applied knowledge, a powerful tactic with measurable results.In true Rich Dad style, readers will be challenged to understand two points of view, and experience how financial knowledge is their unfair advantage.What does school teach you about money? In most cases, the answer is “Not much.” If there is any financial education, the courses are taught by financial planners and bankers… the agents of Wall Street and the big banks, the very people that caused and profited from the financial crisis."
-         }
-        ],
-        "Science and Engineering":[{
+         },
+        
+            {
+            "category":"Science and Engineering",
             "id":"51",
             "image":"https://m.media-amazon.com/images/I/518VGd-9HlL._SL500_.jpg", 
             "bookName":" A Short Account of the History of Mathematics", 
@@ -742,11 +753,12 @@
             "rating": "4,057 ratings", 
             "Regular price": "$20.97", 
             "info":"Extraordinary things happen when we harness the power of both the brain and the heart.Growing up in the high desert of California, Jim Doty was poor, living with an alcoholic father and a mother chronically depressed and paralyzed by a stroke. Today he is the director of the Center for Compassion and Altruism Research and Education at Stanford University, of which the Dalai Lama is a founding benefactor. But back then his life was at a dead end - until at the age of 12, when he wandered into a magic shop looking for a plastic thumb. There he met Ruth, a woman who taught him a series of exercises to ease his own suffering and manifest his greatest desires. Her final mandate was that he keep his heart open and teach these techniques to others.Ruth gave Doty his first glimpse of the unique relationship between the brain and the heart. Doty would go on to put Ruth's techniques to work, bringing power and wealth that he could only imagine as a 12-year-old. But he neglected Ruth's most important lesson, to keep his heart open, with disastrous results - until he had the opportunity to make a spectacular charitable contribution that would virtually ruin him.Part memoir, part science, part inspiration, and part practical instruction, Into the Magic Shop shows us how we can fundamentally change our lives by first changing our brains and our hearts.©2016 James R. Doty, MD (P)2016 Blackstone Audio, Inc."
-         }
-       ],
+         },
+       
            
-        "Sports and Outdoors":[
+           
             {
+            "category":"Sports and Outdoors",
             "id":"56",
             "image":"https://m.media-amazon.com/images/I/51KfgvOF9HL._SL500_.jpg", 
             "bookName":"The Complete Book of Five Rings", 
@@ -817,7 +829,4 @@
             "info":"From the best-selling author of Kafka on the Shore comes this rich and revelatory memoir about writing and running, and the integral impact both have made on his life. Equal parts training log, travelogue, and reminiscence, this revealing memoir covers Murakami's four-month preparation for the 2005 New York City Marathon.Settings range from Tokyo, where he once shared the course with an Olympian, to the Charles River in Boston, among young women who outpace him.Through this marvelous lens of sport emerges a cornucopia of memories and insights: the eureka moment when he decided to become a writer, his triumphs and disappointments, his passion for vintage LPs, and the experience, after age 50, of having seen his race times improve and then fall back.Translated by Philip Gabriel."
         }
 
-
-
     ]
-        }
