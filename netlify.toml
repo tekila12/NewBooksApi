@@ -1,10 +1,6 @@
 [build]
-  publish = "public"
-  functions = "netlify/functions"
+  command = "npm start"  # or "node index.js" if you directly run your server
+  publish = "public"    # Usually used for static files; adjust if needed
 
 [build.environment]
-  NODE_VERSION = "16.11.0"
-
-[caching]
-  # Cache the node_modules directory
-  paths = ["node_modules/**"]
+  NODE_VERSION = "16.11.0" 
