@@ -1,9 +1,8 @@
 [build]
   functions = "netlify/functions"
-  command = "npm run build" # or whatever build command you use
-  publish = "public" # specify the directory to publish, if applicable
+  command = "echo 'No build step required'"
 
 [[redirects]]
   from = "/*"
-  to = "/index.js"
+  to = "/.netlify/functions/index"
   status = 200
