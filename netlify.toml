@@ -1,6 +1,9 @@
 [build]
-  command = "npm start"  # or "node index.js" if you directly run your server
-  publish = "public"    # Usually used for static files; adjust if needed
+  functions = "netlify/functions"
+  command = "npm run build" # or whatever build command you use
+  publish = "public" # specify the directory to publish, if applicable
 
-[build.environment]
-  NODE_VERSION = "16.11.0" 
+[[redirects]]
+  from = "/*"
+  to = "/index.js"
+  status = 200
