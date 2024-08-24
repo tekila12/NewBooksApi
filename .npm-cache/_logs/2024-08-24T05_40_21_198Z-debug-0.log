@@ -5,10 +5,11 @@
 4 silly config:load:file:D:\Repository\NewBooksApi\.npmrc
 5 silly config:load:file:C:\Users\ajnur\.npmrc
 6 silly config:load:file:C:\Program Files\nodejs\etc\npmrc
-7 verbose title npm run start
-8 verbose argv "run" "start"
-9 verbose logfile logs-max:10 dir:D:\Repository\NewBooksApi\.npm-cache\_logs\2024-08-24T04_50_44_520Z-
-10 verbose logfile D:\Repository\NewBooksApi\.npm-cache\_logs\2024-08-24T04_50_44_520Z-debug-0.log
-11 silly logfile done cleaning log files
-12 verbose exit 1
-13 verbose code 1
+7 verbose title npm start
+8 verbose argv "start"
+9 verbose logfile logs-max:10 dir:D:\Repository\NewBooksApi\.npm-cache\_logs\2024-08-24T05_40_21_198Z-
+10 verbose logfile D:\Repository\NewBooksApi\.npm-cache\_logs\2024-08-24T05_40_21_198Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files
+13 verbose exit 1
+14 verbose code 1
